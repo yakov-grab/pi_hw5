@@ -1,5 +1,6 @@
 fastapi
 pydantic
+tensorflow
 transformers
 pytest
 httpx
